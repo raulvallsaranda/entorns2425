@@ -3,18 +3,19 @@
  <head>
   <meta charset="utf-8">
   <title>Entorns 24/25</title>
-  <link rel="stylesheet" href="estils.css">
+  <link rel="stylesheet" href="./estils/estils.css">
  </head>
  <body>
-   <header>
+  <div id="wrapper">
+   <header id="cap">
    <h1>Entorns 24/25</h1>
    </header>
-   <main>
+   <main id="principal">
      <h2>Treballant amb git</h2>
    </main>
-   <footer>
+   <footer id="peu">
      <p>IES Lluís Simarro<br>1r DAM<br>Curs 24/25</p>
    </footer>
-   
+   </div>
  </body>
 </html>

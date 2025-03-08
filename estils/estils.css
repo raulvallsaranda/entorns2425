@@ -1,0 +1,49 @@
+* {
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+}
+html{
+  background-color:#DDD;
+}
+#wrapper{
+  width:80%;
+}
+#cap{
+  margin:10px auto;
+  background-color:rgb(204, 255, 255)
+}
+#cap h1{
+  width:60%;
+  margin:10px auto;
+  text-align: center;
+  color:red;
+  border:solid 5px red;
+  background-color: yellow;
+}
+
+#principal{
+  margin:10px auto;
+  background-color:rgb(204, 255, 255)
+}
+#principla h2{
+  width:60%;
+  margin:10px auto;
+  text-align: center;
+  color:blue;
+  border:solid 5px blue;
+  background-color: white;
+}
+
+#peu{
+  margin:10px auto;
+  background-color:rgb(204, 255, 255)
+}
+#peu p{
+  width:60%;
+  margin:10px auto;
+  text-align: center;
+  color:black;
+  border:solid 5px orange;
+  background-color: white;
+}
