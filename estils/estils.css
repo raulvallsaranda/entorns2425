@@ -5,13 +5,17 @@
 }
 html{
   background-color:#DDD;
+  padding:10px;
+  font-family:arial;
 }
 #wrapper{
   width:80%;
+  margin: 0 auto;
 }
 #cap{
   margin:10px auto;
-  background-color:rgb(204, 255, 255)
+  background-color:rgb(189, 243, 181);
+  padding:10px;
 }
 #cap h1{
   width:60%;
@@ -20,24 +24,28 @@ html{
   color:red;
   border:solid 5px red;
   background-color: yellow;
+  padding:10px;
 }
 
 #principal{
   margin:10px auto;
-  background-color:rgb(204, 255, 255)
+  background-color:rgb(251, 255, 196);
+  padding:10px;
 }
-#principla h2{
+#principal h2{
   width:60%;
   margin:10px auto;
   text-align: center;
   color:blue;
   border:solid 5px blue;
   background-color: white;
+  padding:10px;
 }
 
 #peu{
   margin:10px auto;
-  background-color:rgb(204, 255, 255)
+  background-color:rgb(244, 209, 247);
+  padding:10px;
 }
 #peu p{
   width:60%;
@@ -46,4 +54,5 @@ html{
   color:black;
   border:solid 5px orange;
   background-color: white;
+  padding:10px;
 }
