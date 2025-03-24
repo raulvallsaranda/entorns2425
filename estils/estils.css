@@ -41,7 +41,11 @@ html{
   background-color: white;
   padding:10px;
 }
-
+#principal ul{
+  widht:80%;
+  margin: 0 auto;
+  line-height:35px;
+}
 #peu{
   margin:10px auto;
   background-color:rgb(244, 209, 247);
