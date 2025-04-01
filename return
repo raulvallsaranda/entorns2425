@@ -1,0 +1,74 @@
+*   [33mec29d0c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #7 from Antuanvnzla/main
+[31m|[m[32m\[m  
+[31m|[m *   [33m380110d[m Merge branch 'main' into main
+[31m|[m [33m|[m[31m\[m  
+[31m|[m [33m|[m[31m/[m  
+[31m|[m[31m/[m[33m|[m   
+* [33m|[m   [33m8f9d493[m Merge pull request #6 from Shiva6-cell/main
+[35m|[m[36m\[m [33m\[m  
+[35m|[m * [33m\[m   [33m649d017[m Commit JoanSimo
+[35m|[m [1;31m|[m[35m\[m [33m\[m  
+[35m|[m [1;31m|[m[35m/[m [33m/[m  
+[35m|[m[35m/[m[1;31m|[m [33m|[m   
+[35m|[m * [33m|[m [33m3650168[m Commit JoanSimó
+[35m|[m [1;32m|[m *   [33m626d9a3[m commit antuan
+[35m|[m [1;32m|[m [1;33m|[m[35m\[m  
+[35m|[m [1;32m|[m[35m_[m[1;33m|[m[35m/[m  
+[35m|[m[35m/[m[1;32m|[m [1;33m|[m   
+* [1;32m|[m [1;33m|[m   [33mc9536ff[m Merge pull request #5 from FrostLegend/main
+[1;35m|[m[1;36m\[m [1;32m\[m [1;33m\[m  
+[1;35m|[m * [1;32m\[m [1;33m\[m   [33mf6bd2dc[m Commit Alejandro
+[1;35m|[m [31m|[m[1;35m\[m [1;32m\[m [1;33m\[m  
+[1;35m|[m [31m|[m[1;35m/[m [1;32m/[m [1;33m/[m  
+[1;35m|[m[1;35m/[m[31m|[m [1;32m|[m [1;33m|[m   
+* [31m|[m [1;32m|[m [1;33m|[m   [33m5fb1d02[m Merge pull request #4 from solealmela/main
+[33m|[m[34m\[m [31m\[m [1;32m\[m [1;33m\[m  
+[33m|[m * [31m\[m [1;32m\[m [1;33m\[m   [33m6d6e0a7[m Merge branch 'main' of https://github.com/solealmela/entorns2425
+[33m|[m [35m|[m[33m\[m [31m\[m [1;32m\[m [1;33m\[m  
+[33m|[m [35m|[m[33m/[m [31m/[m [1;32m/[m [1;33m/[m  
+[33m|[m[33m/[m[35m|[m [31m|[m [1;32m|[m [1;33m|[m   
+* [35m|[m [31m|[m [1;32m|[m [1;33m|[m   [33m7b30a95[m Merge pull request #3 from santacata/main
+[1;31m|[m[1;32m\[m [35m\[m [31m\[m [1;32m\[m [1;33m\[m  
+[1;31m|[m * [35m\[m [31m\[m [1;32m\[m [1;33m\[m   [33mf039a66[m Merge branch 'main' into main
+[1;31m|[m [1;33m|[m[1;31m\[m [35m\[m [31m\[m [1;32m\[m [1;33m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m [35m/[m [31m/[m [1;32m/[m [1;33m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m [35m|[m [31m|[m [1;32m|[m [1;33m|[m   
+[1;31m|[m * [35m|[m [31m|[m [1;32m|[m [1;33m|[m [33me78a58c[m Commit Ruben
+[1;31m|[m [1;32m|[m [35m|[m[1;32m_[m[31m|[m[1;32m/[m [1;33m/[m  
+[1;31m|[m [1;32m|[m[1;32m/[m[35m|[m [31m|[m [1;33m|[m   
+[1;31m|[m [1;32m|[m * [31m|[m [1;33m|[m   [33mb4c2b7c[m Merge branch 'main' of https://github.com/solealmela/entorns2425
+[1;31m|[m [1;32m|[m [1;35m|[m[1;31m\[m [31m\[m [1;33m\[m  
+[1;31m|[m [1;32m|[m[1;31m_[m[1;35m|[m[1;31m/[m [31m/[m [1;33m/[m  
+[1;31m|[m[1;31m/[m[1;32m|[m [1;35m|[m [31m|[m [1;33m|[m   
+* [1;32m|[m [1;35m|[m [31m|[m [1;33m|[m   [33mfcbb918[m Merge pull request #2 from RichartR/main
+[31m|[m[32m\[m [1;32m\[m [1;35m\[m [31m\[m [1;33m\[m  
+[31m|[m * [1;32m\[m [1;35m\[m [31m\[m [1;33m\[m   [33m4f8b32e[m Merge branch 'main' of https://github.com/RichartR/entorns2425
+[31m|[m [33m|[m[31m\[m [1;32m\[m [1;35m\[m [31m\[m [1;33m\[m  
+[31m|[m [33m|[m[31m/[m [1;32m/[m [1;35m/[m [31m/[m [1;33m/[m  
+[31m|[m[31m/[m[33m|[m [1;32m|[m [1;35m|[m [31m|[m [1;33m|[m   
+[31m|[m * [1;32m|[m [1;35m|[m [31m|[m [1;33m|[m [33me60d0b2[m Commit Richart
+[31m|[m [1;32m|[m[1;32m/[m [1;35m/[m [31m/[m [1;33m/[m  
+[31m|[m [1;32m|[m * [31m|[m [1;33m|[m   [33mc914f9a[m Merge branch 'main' of https://github.com/solealmela/entorns2425
+[31m|[m [1;32m|[m [35m|[m[31m\[m [31m\[m [1;33m\[m  
+[31m|[m [1;32m|[m[31m_[m[35m|[m[31m/[m [31m/[m [1;33m/[m  
+[31m|[m[31m/[m[1;32m|[m [35m|[m [31m|[m [1;33m|[m   
+[31m|[m [1;32m|[m * [31m|[m [1;33m|[m [33m7fcacc3[m Commit SolePareja
+[31m|[m [1;32m|[m[1;32m/[m [31m/[m [1;33m/[m  
+[31m|[m [1;32m|[m * [1;33m/[m [33m7a97dd9[m Commit Alejandro
+[31m|[m [1;32m|[m[1;32m/[m [1;33m/[m  
+[31m|[m [1;32m|[m * [33m40f6b68[m commit Antuan Guillen
+[31m|[m [1;32m|[m[31m/[m  
+[31m|[m[31m/[m[1;32m|[m   
+* [1;32m|[m   [33me9c0887[m Merge pull request #1 from crisi248/main
+[1;32m|[m[1;32m\[m [1;32m\[m  
+[1;32m|[m [1;32m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;32m|[m   
+[1;32m|[m * [33m2483745[m Commit Cristian
+[1;32m|[m[1;32m/[m  
+* [33ma7329b5[m Update estils.css
+* [33m8401b31[m Update index.html
+* [33m4440260[m Rename index.php to index.html
+* [33mb23de1f[m Canvi estils inicials
+* [33mca7c66c[m Estructura i estils
+* [33mdb4ab8d[m Creem estils.css
+* [33mdfdcb97[m Creem index.php: commit inicial
